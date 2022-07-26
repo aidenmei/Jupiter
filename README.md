@@ -1,4 +1,4 @@
-# TL;DR
+# Java Web Service Development
 This is a event search and recommmendation engine written in Java, implementing keyword extraction and content-based recommendation. It implements RESTful APIs using Java servlets, retrieves event descriptions using TicketMaster API and stores data in MySQL. Users can: 
 - Search nearby available event
 - Save favorite event to account
